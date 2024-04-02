@@ -253,6 +253,20 @@ El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, c
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/e6f51e79-205c-42db-b20a-4abe3d8ad7cf)
 
 
+#### 3. Seguir un envío con el número de seguimiento
+Esta opción permite a cualquier usuario ver una pequeña información de un envío introduciendo su número de seguimiento.
+
+![3](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/5e143f07-b39e-4d56-8fee-54cd86417051)
+
+
+#### 4. Log out
+Se apaga el sistema por completo
+
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/2df370ad-5608-47c2-b377-2a8d657b8fbe)
+
+
+
+
 
 
   
