@@ -1,5 +1,5 @@
 # MANUAL DE USUARIO FERNANPAAQ
-Practica Obligatoria Tema 3. Programa de una compañia de transportes realizado por Manuel José Liébana
+Practica Obligatoria Tema 5. Programa de una compañia de transportes realizado por Manuel José Liébana
 
 ## Índice
 1. [Comenzando](#comenzando)
@@ -16,10 +16,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ## ✔ Requisitos Mínimos ✔
 
 _Debes tener instalado Windows 10 o Windows 11 (x64) y la siguiente versión de java
-**Java SE Development Kit 19.0.2**, para descargarla acceda al siguiente enlace_
+**Oracle OpenJDK 21.0.2**, para descargarla acceda al siguiente enlace_
 
 ```
-https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe
+https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe
 ```
 
 Para comprobar la version de java que tenemos instalada en nuestro equipo, escribimos "cmd" en el buscador de Windows. Después de ejecutarlo, escribimos "java-version" en la terminal.
@@ -27,7 +27,7 @@ Para comprobar la version de java que tenemos instalada en nuestro equipo, escri
 _A continuación, debes tener el siguiente path en tus variables de entorno del sistema, si no sabes mirarlo en el buscador de Windows "Editar las variables del entorno" y por último añadir la siguiente línea al path si no la tienes:_
 
 ```
-C:\Program Files\Java\jdk-19.0.2\bin
+C:\Program Files\Java\jdk-21\bin
 ```
 
 ## 🔧 Instalación 🔧
