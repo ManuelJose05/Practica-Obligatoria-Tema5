@@ -81,7 +81,8 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
 
   Si al crear un envío indicamos que queremos recibir información, cada vez que se asigne un conductor o se modifique el estado de un envío se enviará un mensaje al correo del usuario que recibirá el paquete indicando dicha operación.
 
-  //PONER FOTO
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/59bb734d-2c37-4114-bc14-89bdc6757d1f)
+
 
   #### 2.- Muestra información
   Muestra al usuario la información de los envíos que son dirigidos a él.
@@ -123,8 +124,61 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
 
 
   ### Inicio de sesión como conductor
+  Nos aparecerá el siguiente menú
 
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/bee46b07-d1e7-4d20-881d-f2fc799ac3d3)
+
+Las opciones serán las siguientes:
+1. Información de los envíos pendientes de entrega
+2. Cambiar el estado de un envío
+3. Ver el histórico de paquetes entregados
+4. Añadir una zona de entrega a mi perfil
+5. Ver mi perfil
+6. Modificar mis datos
+7. Salir
+
+  #### 1.- Información de los envíos pendientes de entrega
+  Esta opción muestra al conductor la información de envíos que tenga sin entregar
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/b4c2ce51-1f95-49bc-9460-dfc13c6e798d)
+
+  #### 2.- Cambiar el estado de un envío
+  Esta opción muestra al conductor los envíos que no estan entregados para poder modificar su estado, puede seleccionar 3 estados (En oficina de origen | En reparto | Entregado).
+  Si el envío tiene activadas las notificaciones, cada vez que el conductor modifique el envío se enviará un mensaje al correo del destinatario explicando el cambio de estado.
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/4e2b248b-1957-4443-9ce9-43f42d147dd6)
   
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/0644571c-05dd-4846-bd11-a50bf79c93fe)
+
+
+  #### 3.- Ver el histórico de paquetes entregados
+  Se muestra por pantalla todos los paquetes que el conductor tiene entregados
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/b7aa23e0-c4be-45a1-ba85-27dae9cb79da)
+
+  #### 4.- Añadir una zona de entrega a mi perfil
+  El conductor puede añadir más zonas de entregas para recibir más envíos (Se introduce el código postal de la zona de entrega)
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/ae88bb68-1710-4c16-82ee-fec545bbf9a7)
+
+  #### 5.- Ver mi perfil
+  Se muestra en pantalla la información del conductor
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/59935f54-c824-4208-9466-49aa0ff67807)
+
+  #### 6.- Modificar mis datos
+  El conductor puede cambiar su email y contraseña cuando él desee.
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/9edc113b-48ae-4a25-8a07-fdf307c01820)
+
+  #### 7.- Salir
+  El programa cierra la sesión del conductor y vuelve a mostrar el menú de inicio
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/8d0df4ba-d53d-40a7-ab21-2fe8ac498a3c)
+
+
+
 ### 2. Registrarse
 El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, contraseña, dirección de entrega (código postal, provincia, ciudad, calle, número domicilio) y por último este enviará un mensaje al correo introducido con un número de confirmación para asegurar que el correo es válido. En caso de no introducir correctamente ese código, no se registrará al usuario.
 
