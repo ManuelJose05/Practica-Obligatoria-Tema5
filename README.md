@@ -34,12 +34,12 @@ C:\Program Files\Java\jdk-21\bin
 
 _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando en el siguiente botón:_
 
-![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/22e5bcb4-96f0-4117-a4cd-fd84532fa13c)
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/e0b4fa4b-e48f-4d22-ae78-8029e76f5e6c)
 
 _Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
 ## ⚙️ Ejecución ⚙️
-_Con el programa descomprimido, se va a encontrar una carpeta **PracticaT5** y un ejecutable llamado **FERNANPAAQ**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
+_Con el programa descomprimido, se va a encontrar una carpeta **practicaTema5** y un ejecutable llamado **practicaTema5**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
 _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/3543e4e1-d027-48ad-8cf9-231deecc082a)
