@@ -51,10 +51,11 @@ Encontrarás un menú con las siguientes opciones:
 4. Log out
 
 ### 1. Iniciar sesión
-Debemos introducir un usuario y contraseña de una cuenta registrada para acceder al programa. Una vez iniciada la sesión nos aparecerá otro menú.
+Debemos introducir un usuario y contraseña de una cuenta registrada para acceder al programa.
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/28216291-30a3-444b-bb76-ccc709515749)
 
+Una vez iniciada la sesión, nos aparecerá una pequeña frase de bienvenida con el nombre de usuario y el número de paquetes que tiene pendiente de entrega, además de otro menú.
 El menú contendrá las siguientes opciones:
 1. Realizar un envío
 2. Muestra información
@@ -65,4 +66,18 @@ El menú contendrá las siguientes opciones:
 7. Cerrar sesión
 
   #### 1.- Realizar un envío
+El programá nos pedirá el correo electrónico de un usuario, si este no encuentra ningún usuario con ese usuario, nos pedirá su número de teléfono. En caso de no encontrar ninguna de las 2 variantes, comenzaremos a introducir los datos del envío y se añaderá a "Envíos de usuarios no registrados", de caso contrario, usará la información del usuario registrado para el envío.
+
+  Envío a usuario no registrado
+ ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/c879a56f-b137-465e-87a0-d92bd0014858)
+
+
+
+  Envío a  usuario registrado
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/ad51845c-cfad-45ba-9c0b-ee5be64be51d)
+
+  #### 2.- Muestra información
+
+
+
 
