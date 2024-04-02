@@ -50,8 +50,10 @@ Encontrarás un menú con las siguientes opciones:
 3. Seguir un envío con el número de seguimiento
 4. Log out
 
-### 1. Iniciar sesión
+## 1. Iniciar sesión
 Debemos introducir un usuario y contraseña de una cuenta registrada para acceder al programa.
+
+  ### Inicio de sesión como usuario
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/28216291-30a3-444b-bb76-ccc709515749)
 
@@ -75,6 +77,11 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
     Envío a  usuario registrado
     
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/ad51845c-cfad-45ba-9c0b-ee5be64be51d)
+
+
+  Si al crear un envío indicamos que queremos recibir información, cada vez que se asigne un conductor o se modifique el estado de un envío se enviará un mensaje al correo del usuario que recibirá el paquete indicando dicha operación.
+
+  //PONER FOTO
 
   #### 2.- Muestra información
   Muestra al usuario la información de los envíos que son dirigidos a él.
@@ -115,6 +122,16 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/a68626ac-c846-4863-95a7-5c6af5dcb72e)
 
 
+  ### Inicio de sesión como conductor
+
+  
+### 2. Registrarse
+El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, contraseña, dirección de entrega (código postal, provincia, ciudad, calle, número domicilio) y por último este enviará un mensaje al correo introducido con un número de confirmación para asegurar que el correo es válido. En caso de no introducir correctamente ese código, no se registrará al usuario.
+
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/852698bf-26b7-48a1-aff3-fe7f1642587b)
+
+
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/e6f51e79-205c-42db-b20a-4abe3d8ad7cf)
 
 
 
