@@ -101,6 +101,22 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
 
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/1308397a-1883-4290-8f1f-d0ec533b5018)
 
+  #### 6.- Modificar mis datos
+  El programa nos pregunta que deseamos modificar de la cuenta, introducimos la opción y rellenamos las preguntas con la nueva información
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/187d68b3-aac5-474d-a9fc-3a9230b29205)
+
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/28e27c4b-4d08-4863-8e1e-dc6d8bf3707f)
+
+  #### 7.- Cerrar sesión
+  El programa cierra la sesión del usuario y volvemos al menú de inicio
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/a68626ac-c846-4863-95a7-5c6af5dcb72e)
+
+
+
+
 
 
   
