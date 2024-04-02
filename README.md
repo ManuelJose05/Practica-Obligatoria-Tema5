@@ -178,6 +178,71 @@ Las opciones serán las siguientes:
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/8d0df4ba-d53d-40a7-ab21-2fe8ac498a3c)
 
 
+  ### Inicio de sesión como administrador
+  Al iniciar sesión como administrador, nos aparecerá el siguiente menú.
+
+  Nos muestra cuantos usuarios y conductores hay registrados en el programa, así como el número de envíos pendientes de entrega, sin conductor y número de envíos a usuarios no registrados. Además nos muestra la media de días que tarda la empresa en entregar un paquete.
+
+  Las opciones del menú son:
+  1. Ver los envíos sin asignar
+  2. Asignar un envío a un conductor
+  3. Ver un resumen de los usuarios registrados
+  4. Ver un resumen de los conductores registrados
+  5. Ver mi perfil
+  6. Modificar mis datos
+  7. Registrar un conductor
+  8. Cerrar sesión
+  9. Salir
+
+
+  #### 1.- Ver los envíos sin asignar
+  Muestra los envíos que no tienen asignado un conductor
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/3a1786f0-e474-41a9-90c9-973313c63bf4)
+
+  #### 2.- Asignar un envío a un conductor
+  El programa muestra al administrador los envíos que no tienen conductor, así como los conductores que tiene esa zona de entrega. El admin es el que selecciona el envío a asignar además del conductor
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/a178149d-4f01-46bd-8cf0-6c3f7f459962)
+
+  Si el envío tiene activada las notificaciones, el programa envía un mensaje al correo del recibidor indicando que se le ha asignado un conductor a su envío.
+
+  #### 3.- Ver un resumen de los usuarios registrados
+  Se muestra la información de todos los usuarios registrados en el programa
+  
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/fbf9fdfb-37b9-4e24-a196-20eb024e4c68)
+
+  #### 4.- Ver un resumen de los conductores registrados
+  Se muestra la información de todos los conductores registrados en el programa
+  
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/9fa2bdf5-74f4-4e31-b91c-88ccff4d986a)
+
+  #### 5.- Ver mi perfil
+  Se muestra la información del administrador
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/7b424719-9a0e-48dc-a893-490813350e22)
+
+  #### 6.- Modificar mis datos
+  El administrador puede cambiar su email y contraseña
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/19b05b33-8168-4d8d-8208-e8fa1440395e)
+
+  #### 7.- Registrar un conductor
+  El administrador es el único que puede registrar a un conductor. Deberá introducir su nombre, email y contraseña además de un código de confirmación que se envía al correo del conductor.
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/94e510b7-50d5-476d-a6fe-02a12863ad90)
+
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/b711028e-f5f0-42f6-b6b7-64f0a5cf2ac0)
+
+  #### 8.- Cerrar sesión
+  El programa cierra la sesión del administrador y muestra el menú de inicio
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/4ddc3f17-1467-4722-a771-06cfeaaab34f)
+
+
+  #### 9.- Salir
+  Se cierra el programa entero
 
 ### 2. Registrarse
 El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, contraseña, dirección de entrega (código postal, provincia, ciudad, calle, número domicilio) y por último este enviará un mensaje al correo introducido con un número de confirmación para asegurar que el correo es válido. En caso de no introducir correctamente ese código, no se registrará al usuario.
