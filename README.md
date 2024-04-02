@@ -68,10 +68,12 @@ El menú contendrá las siguientes opciones:
   #### 1.- Realizar un envío
 El programá nos pedirá el correo electrónico de un usuario, si este no encuentra ningún usuario con ese usuario, nos pedirá su número de teléfono. En caso de no encontrar ninguna de las 2 variantes, comenzaremos a introducir los datos del envío y se añaderá a "Envíos de usuarios no registrados", de caso contrario, usará la información del usuario registrado para el envío.
 
-  Envío a usuario no registrado
+    Envío a usuario no registrado
+    
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/c879a56f-b137-465e-87a0-d92bd0014858)
  
-  Envío a  usuario registrado
+    Envío a  usuario registrado
+    
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/ad51845c-cfad-45ba-9c0b-ee5be64be51d)
 
   #### 2.- Muestra información
@@ -82,6 +84,18 @@ El programá nos pedirá el correo electrónico de un usuario, si este no encuen
 
   #### 3.- Modificar mis datos de entrega para un envío
   El usuario puede modificar la dirección de entrega de un envío introduciendo el id del envío
+
+  #### 4.- Muestra información de los envíos que yo he realizado
+  Muestra al usuario la información de los envíos que él ha enviado a otros usuarios
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/fa956dcb-bc3d-484e-8373-77d870218b48)
+
+  #### 5.- Ver mi perfil
+  Muestra al usuario la información de su cuenta de usuario en el programa
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/1308397a-1883-4290-8f1f-d0ec533b5018)
+
+
 
   
 
