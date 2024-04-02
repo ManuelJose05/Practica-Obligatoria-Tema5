@@ -50,8 +50,9 @@ Encontrarás un menú con las siguientes opciones:
 3. Seguir un envío con el número de seguimiento
 4. Log out
 
-#### 1. Iniciar sesión
+### 1. Iniciar sesión
 Debemos introducir un usuario y contraseña de una cuenta registrada para acceder al programa. Una vez iniciada la sesión nos aparecerá otro menú.
+
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/28216291-30a3-444b-bb76-ccc709515749)
 
 El menú contendrá las siguientes opciones:
@@ -63,5 +64,5 @@ El menú contendrá las siguientes opciones:
 6. Modificar mis datos
 7. Cerrar sesión
 
-  ### 1.- Realizar un envío
+  #### 1.- Realizar un envío
 
