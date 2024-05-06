@@ -229,7 +229,8 @@ Las opciones serán las siguientes:
 
   #### 7.- Mostrar la configuración del sistema
   Esta opción permite al administrador ver toda la configuración existente en el fichero "config.properties".
-  
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/2e1ca376-ea99-44c4-b569-55e00892b270)
 
   #### 8.- Registrar un conductor
   El administrador es el único que puede registrar a un conductor. Deberá introducir su nombre, email y contraseña además de un código de confirmación que se envía al correo del conductor.
@@ -241,9 +242,15 @@ Las opciones serán las siguientes:
 
   #### 9.- Hacer una copia de seguridad
   En la nueva versión se implementa una nueva funcionalidad al sistema la cúal hace capaz al administrador de generar una copia de seguridad del sistema.
+  En la captura da un error ya que la ruta debe ser correcta para que el programa pueda crear la copia correctamente.
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/0389ab91-8491-4622-b12b-47e6cf8c35c3)
 
   #### 10.- Exportar los envíos
   Esta nueva implementación otorga al administrador la posibilidad de exportar toda la información de los envíos a un fichero ".xls".
+  El fichero se guarda en una carpeta llamada "Excel" dentro de la carpeta del proyecto.
+
+  ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/f1028fb4-a389-42a3-a439-9b017d58ac92)
 
   #### 11.- Cerrar sesión
   El programa cierra la sesión del administrador y muestra el menú de inicio
