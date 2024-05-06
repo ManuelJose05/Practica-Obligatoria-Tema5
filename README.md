@@ -1,5 +1,5 @@
 # MANUAL DE USUARIO FERNANPAAQ
-Practica Obligatoria Tema 5. Programa de una compañia de transportes realizado por Manuel José Liébana
+Practica Obligatoria Tema 6. Programa de una compañia de transportes realizado por Manuel José Liébana
 
 ## Índice
 1. [Comenzando](#comenzando)
@@ -39,7 +39,7 @@ _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando
 _Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
 ## ⚙️ Ejecución ⚙️
-_Con el programa descomprimido, se va a encontrar una carpeta **practicaTema5** y un ejecutable llamado **practicaTema5**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
+_Con el programa descomprimido, se va a encontrar una carpeta **practicaTema6** y un ejecutable llamado **practicaTema6**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
 _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/3543e4e1-d027-48ad-8cf9-231deecc082a)
@@ -255,6 +255,7 @@ El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, c
 
 #### 3. Seguir un envío con el número de seguimiento
 Esta opción permite a cualquier usuario ver una pequeña información de un envío introduciendo su número de seguimiento.
+En la nueva versión del programa, esta opción puede ser desabilitada al gusto del programador en el fichero de configuración "properties".
 
 ![3](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/5e143f07-b39e-4d56-8fee-54cd86417051)
 
