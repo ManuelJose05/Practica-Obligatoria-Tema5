@@ -36,10 +36,10 @@ _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/e0b4fa4b-e48f-4d22-ae78-8029e76f5e6c)
 
-_Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
+_Ahora crea una carpeta llamada "practicaTema6" con los archivos dentro y situalos en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
 ## ⚙️ Ejecución ⚙️
-_Con el programa descomprimido, se va a encontrar una carpeta **practicaTema6** y un ejecutable llamado **practicaTema6**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
+_Dentro de la carpeta se encuentra un ejecutable llamado **practicaTema6**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
 _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 
 ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/3543e4e1-d027-48ad-8cf9-231deecc082a)
