@@ -265,7 +265,7 @@ El programa nos pedirá que introduzcamos nombre de usuario, apellidos, email, c
 Esta opción permite a cualquier usuario ver una pequeña información de un envío introduciendo su número de seguimiento.
 En la nueva versión del programa, esta opción puede ser desabilitada al gusto del programador en el fichero de configuración "properties".
 
-![3](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/5e143f07-b39e-4d56-8fee-54cd86417051)
+![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/9541469d-5dbf-4ce7-93b9-0d0a2268f160)
 
 
 #### 4. Log out
