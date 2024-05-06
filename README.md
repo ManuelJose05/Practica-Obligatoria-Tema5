@@ -227,7 +227,10 @@ Las opciones serán las siguientes:
 
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/19b05b33-8168-4d8d-8208-e8fa1440395e)
 
-  #### 7.- Registrar un conductor
+  #### 7.- Mostrar la configuración del sistema
+  Esta opción permite al administrador ver toda la configuración existente en el fichero "config.properties".
+
+  #### 8.- Registrar un conductor
   El administrador es el único que puede registrar a un conductor. Deberá introducir su nombre, email y contraseña además de un código de confirmación que se envía al correo del conductor.
 
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/94e510b7-50d5-476d-a6fe-02a12863ad90)
@@ -235,13 +238,18 @@ Las opciones serán las siguientes:
 
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/b711028e-f5f0-42f6-b6b7-64f0a5cf2ac0)
 
-  #### 8.- Cerrar sesión
+  #### 9.- Hacer una copia de seguridad
+  En la nueva versión se implementa una nueva funcionalidad al sistema la cúal hace capaz al administrador de generar una copia de seguridad del sistema.
+
+  #### 10.- Exportar los envíos
+  Esta nueva implementación otorga al administrador la posibilidad de exportar toda la información de los envíos a un fichero ".xls".
+
+  #### 11.- Cerrar sesión
   El programa cierra la sesión del administrador y muestra el menú de inicio
 
   ![image](https://github.com/ManuelJose05/Practica-Obligatoria-Tema5/assets/150932456/4ddc3f17-1467-4722-a771-06cfeaaab34f)
 
-
-  #### 9.- Salir
+  #### 12.- Salir
   Se cierra el programa entero
 
 ### 2. Registrarse
