@@ -229,6 +229,7 @@ Las opciones serán las siguientes:
 
   #### 7.- Mostrar la configuración del sistema
   Esta opción permite al administrador ver toda la configuración existente en el fichero "config.properties".
+  
 
   #### 8.- Registrar un conductor
   El administrador es el único que puede registrar a un conductor. Deberá introducir su nombre, email y contraseña además de un código de confirmación que se envía al correo del conductor.
